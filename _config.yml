@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "BOOOT Mtg Ruling" # the name of your site, e.g. ACME Corp.
+discription: "ルールモンガーの嘆き"
+permalink: /blog/:year/:month/:day/:title
+date_format: "%Y %m %d"
